@@ -1,7 +1,5 @@
-# Gemini CLI
-
-[![Gemini CLI CI](https://github.com/aigo666/gemini-cli-new/actions/workflows/ci.yml/badge.svg)](https://github.com/aigo666/gemini-cli-new/actions/workflows/ci.yml)
-
+# Gemini CLI New
+Gemini CLI 二开增强版
 ## 🌐 Language / 语言选择
 
 | Language | Link |
