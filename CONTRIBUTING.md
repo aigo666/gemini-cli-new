@@ -1,22 +1,20 @@
 # How to Contribute
 
-We would love to accept your patches and contributions to this project.
+> **🔗 Fork Notice**: This is an enhanced fork of [Google's official Gemini CLI](https://github.com/google-gemini/gemini-cli). Contributions to the original project are also welcome!
+
+We would love to accept your patches and contributions to this enhanced fork project.
 
 ## Before you begin
 
-### Sign our Contributor License Agreement
+### Contributing to This Fork
 
-Contributions to this project must be accompanied by a
-[Contributor License Agreement](https://cla.developers.google.com/about) (CLA).
-You (or your employer) retain the copyright to your contribution; this simply
-gives us permission to use and redistribute your contributions as part of the
-project.
+**For this enhanced fork**:
+- ✅ **No CLA required** - This is a community-maintained fork
+- ✅ **Apache-2.0 License** - All contributions follow the same open source license
+- ✅ **Direct contributions** - You can contribute directly via Pull Requests
 
-If you or your current employer have already signed the Google CLA (even if it
-was for a different project), you probably don't need to do it again.
-
-Visit <https://cla.developers.google.com/> to see your current agreements or to
-sign a new one.
+**For the original project**:
+If you want to contribute to the [official Google Gemini CLI](https://github.com/google-gemini/gemini-cli), you'll need to sign their [Contributor License Agreement](https://cla.developers.google.com/about) (CLA).
 
 ### Review our Community Guidelines
 

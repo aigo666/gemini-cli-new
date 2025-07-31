@@ -1,5 +1,12 @@
 # Gemini CLI New
-Gemini CLI 二开增强版
+
+[![Gemini CLI CI](https://github.com/aigo666/gemini-cli-new/actions/workflows/ci.yml/badge.svg)](https://github.com/aigo666/gemini-cli-new/actions/workflows/ci.yml)
+
+> 🔗 **Forked from Official Google Gemini CLI**: [https://github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+> 
+> ⭐ **致敬原作者**: 本项目基于 Google 官方开源的 [Gemini CLI](https://github.com/google-gemini/gemini-cli) 进行二次开发
+> 
+> 📋 **声明**: 本项目为非官方增强版本，保持与上游项目的完全兼容性
 ## 🌐 Language / 语言选择
 
 | Language | Link |
@@ -13,7 +20,9 @@ Gemini CLI 二开增强版
 
 > 🚀 **Enhanced Fork Version** 🚀
 > 
-> This project is based on Google's official Gemini CLI with secondary development, **fully retaining all original features** while adding the following enhancements:
+> **🔗 Based on**: [Official Google Gemini CLI](https://github.com/google-gemini/gemini-cli) (Star ⭐ 65.9k)
+> 
+> This project is a **fork** of Google's official Gemini CLI with secondary development, **fully retaining all original features** while adding the following enhancements:
 > 
 > ✨ **New Features**:
 > - 🌍 **Native Proxy API Support** - Custom API endpoints via `GEMINI_API_BASE_URL` environment variable
@@ -252,7 +261,9 @@ For details on the terms of service and privacy notice applicable to your use of
 
 > 🚀 **二开增强版本** 🚀
 > 
-> 本项目基于 Google 官方 Gemini CLI 进行二次开发，**完全保留原版所有功能**的同时，新增以下特性：
+> **🔗 基于项目**: [Google 官方 Gemini CLI](https://github.com/google-gemini/gemini-cli) (⭐ 65.9k Stars)
+> 
+> 本项目是 Google 官方 Gemini CLI 的 **Fork 版本**，进行二次开发，**完全保留原版所有功能**的同时，新增以下特性：
 > 
 > ✨ **新增特性**：
 > - 🌍 **原生中转API支持** - 通过 `GEMINI_API_BASE_URL` 环境变量支持自定义API端点
@@ -480,3 +491,33 @@ gemini
 ## 服务条款和隐私声明
 
 有关适用于您使用 Gemini CLI 的服务条款和隐私声明的详细信息，请参阅[服务条款和隐私声明](./docs/tos-privacy.md)。
+
+---
+
+## 🙏 致谢与声明 / Acknowledgments
+
+### 原项目致谢 / Original Project Credits
+
+本项目基于 Google 官方开源的 [Gemini CLI](https://github.com/google-gemini/gemini-cli) 进行二次开发：
+
+**Original Project**: [https://github.com/google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)  
+**License**: Apache-2.0  
+**Authors**: Google & Contributors  
+
+### 项目关系说明 / Project Relationship
+
+- ✅ **完全开源**: 遵循原项目 Apache-2.0 开源协议
+- ✅ **非官方版本**: 本项目为社区维护的增强版本，非 Google 官方发布
+- ✅ **上游兼容**: 保持与官方版本的完全兼容性，可随时迁移回官方版本
+- ✅ **功能增强**: 在原有功能基础上新增中转API、代理支持等特性
+
+### 贡献 / Contributing
+
+欢迎向本项目贡献代码，同时也鼓励向[官方项目](https://github.com/google-gemini/gemini-cli)贡献！
+
+---
+
+**⚡ 快速链接 / Quick Links**  
+- 🏠 [官方项目](https://github.com/google-gemini/gemini-cli) | [本增强版](https://github.com/aigo666/gemini-cli-new)
+- 📖 [官方文档](https://github.com/google-gemini/gemini-cli/tree/main/docs) | [增强版文档](./docs/index.md)
+- 🐛 [官方Issues](https://github.com/google-gemini/gemini-cli/issues) | [增强版Issues](https://github.com/aigo666/gemini-cli-new/issues)

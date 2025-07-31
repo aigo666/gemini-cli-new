@@ -30,11 +30,11 @@ import readline from 'node:readline';
 
 //  OAuth Client ID used to initiate OAuth2Client class.
 const OAUTH_CLIENT_ID =
-  process.env.GOOGLE_OAUTH_CLIENT_ID || 'your-google-oauth-client-id';
+  process.env.GOOGLE_OAUTH_CLIENT_ID || 'REPLACE_WITH_YOUR_CLIENT_ID';
 
 // OAuth Secret value used to initiate OAuth2Client class.
 // Note: Using environment variable for better security practices
-const OAUTH_CLIENT_SECRET = process.env.GOOGLE_OAUTH_CLIENT_SECRET || 'your-google-oauth-client-secret';
+const OAUTH_CLIENT_SECRET = process.env.GOOGLE_OAUTH_CLIENT_SECRET || 'REPLACE_WITH_YOUR_CLIENT_SECRET';
 
 // OAuth Scopes for Cloud Code authorization.
 const OAUTH_SCOPE = [
